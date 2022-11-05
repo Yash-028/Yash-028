@@ -96,10 +96,10 @@
   
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=3eb7f4" /></div>  
+<br/>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=3eb7f4" /></div>  
 
 <br/>  
 
-<div align="Left"></div>
+<div align="center"></div>
 <br />
