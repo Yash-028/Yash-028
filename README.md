@@ -1,4 +1,5 @@
- 
+
+## Intro  
 # <div align="center">Hello There 👋 !!</div>  
   
 
@@ -85,8 +86,6 @@
 
 <br/>  
 
-
-## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
@@ -96,10 +95,16 @@
   
 
 <br/>  
-<br/>
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=3eb7f4" /></div>  
+
+<div align="center"></div>  
 
 <br/>  
 
-<div align="center"></div>
+<br/>
+
+### Currently Listening  
+![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6sxyr7suu4cz6qatgpfxw34ru&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=novatorem&show_offline=false&background_color=7cccfd&bar_color=ff8800&bar_color_cover=false)
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
