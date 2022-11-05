@@ -2,7 +2,7 @@
 # <div align="center">Hello There 👋 !!</div>  
   
 
-<img src="https://github.com/Yash-028/Yash-028/blob/main/wallpaper%20github.jpeg" align="left" style="width: 20%" "height: 20%" />  
+<img src="https://github.com/Yash-028/Yash-028/blob/main/wallpaper%20github.jpeg" align="left" style="width: 20% height: 20%" />  
   
 
 ### <div align="center">I'm yash Chauhan and seeking Software Engineer opportunities. I hope you will find what you are looking for here. </div>  
