@@ -83,18 +83,21 @@
   
 
 <br/>  
-
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</div>
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
 
+</div>
 <br/>  
 
   
 
 <br/>  
 
-<div align="center"></div>  
+<div align="left"></div>  
 
 <br/>  
 
@@ -103,6 +106,3 @@
 ### Currently Listening  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=compact&show_offline=false&background_color=000000)
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
