@@ -2,8 +2,6 @@
 ## Intro  
 # <div align="center">Hello There 👋 !!</div>  
   
-
-<img src="https://github.com/Yash-028/Yash-028/blob/main/wallpaper%20github.jpeg" align="left" style="width: 100%" />  
   
 
 ### <div align="center">I'm yash Chauhan and seeking Software Engineer opportunities. I hope you will find what you are looking for here. </div>  
@@ -100,10 +98,10 @@
 
 <br/>  
 
-<br/>
+
 
 ### Currently Listening  
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6sxyr7suu4cz6qatgpfxw34ru&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=novatorem&show_offline=false&background_color=7cccfd&bar_color=ff8800&bar_color_cover=false)
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=compact&show_offline=false&background_color=000000)
 <br />
 
 ----
