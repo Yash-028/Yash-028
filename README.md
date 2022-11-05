@@ -74,40 +74,29 @@
 </a>  
 </div>  
   
-
+### Github Data
 <br/>  
-
-<div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" />
-</div>  
-  
-
+<a img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" />
+</a> 
 <br/>  
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<a img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</a>
 </div>
 <div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
-
+<a img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
+</a>
 </div>
-<br/>  
-
-  
 
 <br/>  
-
-</div>  
-
-<div align="left"> 
-
+<br/> 
 <br/>  
-
 
 ### Currently Listening  
+<div align="center">
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=compact&show_offline=false&background_color=000000)
-<br />
+<br/>
 
 </div>
