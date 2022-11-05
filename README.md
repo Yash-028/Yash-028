@@ -77,6 +77,8 @@
 
 <br/>  
 
+<div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" />
 </div>  
@@ -97,12 +99,15 @@
 
 <br/>  
 
-<div align="left"></div>  
+</div>  
+
+<div align="left"> 
 
 <br/>  
-
 
 
 ### Currently Listening  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=compact&show_offline=false&background_color=000000)
 <br />
+
+</div>
