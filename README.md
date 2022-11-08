@@ -99,7 +99,7 @@
 <br/>  
 
 ### Currently Listening  
-<div align="left">
+<div align="left">  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r6sxyr7suu4cz6qatgpfxw34ru&cover_image=true&theme=compact&show_offline=false&background_color=000000)
 
