@@ -78,19 +78,21 @@
 <br/>  
 
 <div align="center">
-<a><img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" height="100%" />
+<a>
+  <img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" height="100%" />
 </a>
-  
+</div>  
   
 <br/>  
 <div align="left">
-<a><img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </a>
-  
-<br/>
-</div>
+</div>  
+
 <div align="left">
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
 </a>
 </div>
 
