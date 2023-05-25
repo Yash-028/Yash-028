@@ -74,25 +74,22 @@
 </a>  
 </div>  
   
-  
-### experiment 
+### Github Data
 
-<details>
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/Yash-028">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-028&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/Yash-028">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-028&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/Yash-028">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-028&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/Yash-028">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-028&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a>
@@ -100,28 +97,7 @@
   </a>
 </p>
 
-### Github Data
-<br/>  
 
-<div align="center">
-<a>
-  <img src="https://komarev.com/ghpvc/?username=Yash-028&&style=flat-square" align="center" height="100%" />
-</a>
-</div>  
-<br/>  
-<br/>  
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-028&show_icons=true&count_private=true&hide_border=true" align="left" />  
-</a>
-</div>  
-<br/>  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-028&hide_border=true&layout=compact" align="left" />  
-</a>
-</div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Currently Listening  
