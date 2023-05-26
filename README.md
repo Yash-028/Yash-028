@@ -88,7 +88,6 @@
   </a>
   <a href="https://github.com/Yash-028">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-028&layout=pie" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-028&layout=pie)](https://github.com/yash-028/github-readme-stats)
   </a>
 </p>
 
