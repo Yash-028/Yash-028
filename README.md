@@ -87,7 +87,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-028&theme=transparent" />
   </a>
   <a href="https://github.com/Yash-028">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-028&langs_count=10&exclude_repo=&hide=100-days-of-ML&layout=default&card_width=699&hide_border=true&theme=transparent" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-028&langs_count=10&exclude_repo=100-Days-Of-ML-Code&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+
   </a>
 </p>
 
